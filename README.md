@@ -59,21 +59,7 @@ Using **Monte Carlo simulation** and **numerical optimization**, it identifies t
 
 ## 🧮 Results
 
-**Optimal Portfolio Allocation (Example):**
-
-| Ticker | Weight |
-|---------|--------|
-| AAPL | 32% |
-| MSFT | 25% |
-| GOOG | 20% |
-| AMZN | 23% |
-
-**Max Sharpe Portfolio**
-- Expected Return: ~18%  
-- Volatility: ~12%  
-- Sharpe Ratio: ~1.33  
-
-*(Results vary with market data and time window.)*
+<img width="899" height="600" alt="Screenshot 2025-11-12 at 12 53 19 PM" src="https://github.com/user-attachments/assets/9d1c9109-c224-4296-9808-1d2540da968a" />
 
 ---
 
