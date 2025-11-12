@@ -67,5 +67,7 @@ Using **Monte Carlo simulation** and **numerical optimization**, it identifies t
 
 1. **Clone this repository**
    ```bash
-   git clone https://github.com/yourusername/portfolio-optimization.git
-   cd portfolio-optimization
+   git clone https://github.com/evy004/PortfolioSimulation.git
+   cd PortfolioSimulation
+   pip install -r requirements.txt
+   python main.py
