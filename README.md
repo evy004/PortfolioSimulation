@@ -65,7 +65,7 @@ Using **Monte Carlo simulation** and **numerical optimization**, it identifies t
 
 ## 🖥️ How to Run
 
-1. **Clone this repository**
+1. **Clone and run this repository**
    ```bash
    git clone https://github.com/evy004/PortfolioSimulation.git
    cd PortfolioSimulation
